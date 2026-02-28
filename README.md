@@ -7,35 +7,20 @@
 
 ## 👋 About Me
 
-Hi! I'm **Krishna M**, a Computer Science student at the **University of Illinois at Urbana-Champaign**. I'm passionate about building innovative solutions through code and love exploring new technologies at hackathons and collaborative projects.
+Hi! I'm **Krishna M**, a Computer Science student at the **University of Illinois at Urbana-Champaign**. I'm passionate about building innovative solutions through code and collaborative projects.
 
+- 📍 **Location**: Illinois
 - 🎓 **Education**: B.S. in Computer Science @ UIUC ('25-'28)
-- 📧 **Contact**: kmist3@illinois.edu
 
 ## 🌟 Featured Projects
 
-Check out my repositories to explore my latest work and contributions across various domains including web development, data science, and utility tools.
+Check out my repositories to explore my latest work and contributions across various domains!
 
 **[View All Projects](https://github.com/kmist70?tab=repositories)**
 
-## 🛠️ Tech Stack
-
-**Languages & Frameworks:**
-- C++, Python, Java
-
-**Tools & Platforms:**
-- Git & GitHub, VS Code, Docker
-
-**Interests:**
-- Hackathons & competitive programming
-- Open-source software
-- Building scalable solutions
-
-## 📊 GitHub Statistics
-
-```
-Total Repositories: 22
-```
+## 🖥️ Tech & Interests
+- 🧰 Languages: C++, Python, Java
+- ❤️ Interests: Software Engineering, Artificial Intelligence, and Machine Learning
 
 ## 🤝 Let's Connect!
 
@@ -43,7 +28,6 @@ I'm always interested in:
 - 🔗 Collaborating on exciting projects
 - 💡 Learning from the community
 - 🌐 Contributing to open-source
-- 🎯 Participating in hackathons
 
 Feel free to check out my work and reach out if you'd like to collaborate!
 
