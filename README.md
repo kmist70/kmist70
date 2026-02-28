@@ -1,10 +1,5 @@
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 
-[![Repos](https://img.shields.io/badge/Public%20Repos-7-blue?style=flat-square)](https://github.com/kmist70?tab=repositories)
-[![Private Repos](https://img.shields.io/badge/Private%20Repos-15-purple?style=flat-square)](https://github.com/kmist70)
-[![Followers](https://img.shields.io/github/followers/kmist70?label=Followers&style=flat-square)](https://github.com/kmist70)
-[![Following](https://img.shields.io/badge/Following-4-green?style=flat-square)](https://github.com/kmist70/following)
-
 ## 👋 About Me
 
 Hi! I'm **Krishna M**, a Computer Science student at the **University of Illinois at Urbana-Champaign**. I'm passionate about building innovative solutions through code and collaborative projects.
