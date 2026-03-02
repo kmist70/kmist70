@@ -27,10 +27,10 @@ I'm **Krishna M**, a CS student at **UIUC** building projects in AI/ML and softw
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kmist70&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmist70&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+[![Repos](https://img.shields.io/badge/Public%20Repos-7-blue?style=flat-square)](https://github.com/kmist70?tab=repositories)
+[![Private Repos](https://img.shields.io/badge/Private%20Repos-15-purple?style=flat-square)](https://github.com/kmist70)
+[![Followers](https://img.shields.io/github/followers/kmist70?label=Followers&style=flat-square)](https://github.com/kmist70)
+[![Following](https://img.shields.io/badge/Following-4-green?style=flat-square)](https://github.com/kmist70/following)
 
 ## 🤝 Let's Connect!
 
