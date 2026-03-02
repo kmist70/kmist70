@@ -7,9 +7,9 @@
 I'm **Krishna M**, a CS student at **UIUC** building projects in AI/ML and software engineering.
 
 - 📍 **Location**: Urbana-Champaign, Illinois
-- 🎓 **Education**: B.S. Computer Science @ UIUC ('25–'28)
+- 🎓 **Education**: B.S. in Computer Science @ UIUC ('25–'28)
 - 🔭 **Currently working on**: Multimodal fake news detector (DistilBERT + CLIP + Whisper)
-- 🌱 **Currently learning**: Data structures (CS225), systems programming, ML fundamentals
+- 🌱 **Currently learning**: Data Structures (CS 225), Computer Architecture (CS 233), ML fundamentals
 - 💼 **Looking for**: SWE / AI-ML internships — Summer 2026
 
 ## 🚀 Featured Projects
