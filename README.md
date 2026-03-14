@@ -10,7 +10,7 @@ I'm **Krishna M**, a CS student at **UIUC** building projects in AI/ML and softw
 - 🎓 **Education**: B.S. in Computer Science @ UIUC ('25–'28)
 - 🔭 **Currently working on**: Stock Market Analyzer (Pandas, NumPy, Streamlit)
 - 🌱 **Currently learning**: Data Structures (CS 225), Computer Architecture (CS 233), ML fundamentals
-- 💼 **Looking for**: SWE / AI-ML internships — Summer 2026
+- 💼 **Looking for**: SWE / Data Science / AI-ML internships — Summer 2026
 
 <!-- - 🔭 **Currently working on**: name (tools/libraries) 
 insert this when currently working
