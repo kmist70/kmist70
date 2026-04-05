@@ -8,7 +8,7 @@ I'm **Krishna M**, a CS student at **UIUC** building projects in AI/ML and softw
 
 - 📍 **Location**: Urbana-Champaign, Illinois
 - 🎓 **Education**: B.S. in Computer Science @ UIUC ('25–'28)
-- 🔭 **Currently working on**: Stock Market Analyzer (Pandas, NumPy, Streamlit)
+- 🔭 **Currently working on**: Stock Market Analyzer (Pandas, NumPy, Streamlit), MemeFocus (MediaPipe, OpenCV, NumPy)
 - 🌱 **Currently learning**: Data Structures (CS 225), Computer Architecture (CS 233), ML fundamentals
 - 💼 **Looking for**: SWE / Data Science / AI-ML internships — Summer 2026
 
