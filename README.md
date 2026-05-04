@@ -8,7 +8,7 @@ I'm **Krishna M**, a CS student at **UIUC** building projects in AI/ML and softw
 
 - 📍 **Location**: Urbana-Champaign, Illinois
 - 🎓 **Education**: B.S. in Computer Science @ UIUC ('25–'28)
-- 🔭 **Currently working on**: MemeFocus (MediaPipe, OpenCV, NumPy)
+- 🔭 **Currently working on**: Brainstorming new project ideas!
 - 🌱 **Currently learning**: Data Structures (CS 225), Computer Architecture (CS 233), ML fundamentals
 - 💼 **Looking for**: SWE / Data Science / AI-ML internships — Summer 2027
 
@@ -19,9 +19,9 @@ insert this when currently working
 ## 🚀 Featured Projects
 | Project | Description | Stack |
 |---|---|---|
+| [MemeFocus](https://github.com/SP26-UIUC-CS222/Team-26.100) | Computer vision pipeline for productivity using memes and positive disruption | Python · MediaPipe · OpenCV |
 | [Stock Market Analyzer](https://github.com/MarketSignalWorks/market.analyzer) | Stock market trend predictor for trading strategies | Python · Pandas · NumPy · Streamlit |
 | [Fake News Detector](https://github.com/kmist70/fake-news-detector) | Multimodal misinformation classifier combining text, image & audio | Python · PyTorch · Streamlit |
-| [Meme Facial Recognition](https://github.com/kmist70/meme-face-recognition-v1) | Computer vision pipeline for expression matching | Python · MediaPipe · OpenCV |
 
 **[View All Projects](https://github.com/kmist70?tab=repositories)**
 
