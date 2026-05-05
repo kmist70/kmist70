@@ -19,7 +19,7 @@ insert this when currently working
 ## 🚀 Featured Projects
 | Project | Description | Stack |
 |---|---|---|
-| [MemeFocus](https://github.com/SP26-UIUC-CS222/Team-26.100) | Computer vision pipeline for productivity using memes and positive disruption | Python · MediaPipe · OpenCV |
+| [MemeFocus](https://github.com/kmist70/memefocus) | Computer vision pipeline for productivity using memes and positive disruption | Python · MediaPipe · OpenCV |
 | [Stock Market Analyzer](https://github.com/MarketSignalWorks/market.analyzer) | Stock market trend predictor for trading strategies | Python · Pandas · NumPy · Streamlit |
 | [Fake News Detector](https://github.com/kmist70/fake-news-detector) | Multimodal misinformation classifier combining text, image & audio | Python · PyTorch · Streamlit |
 
