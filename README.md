@@ -8,7 +8,7 @@ I'm **Krishna M**, a CS student at **UIUC** building projects in AI/ML and softw
 
 - 📍 **Location**: Urbana-Champaign, Illinois
 - 🎓 **Education**: B.S. in Computer Science @ UIUC ('25–'28)
-- 🔭 **Currently working on**: Creating a personal website
+- 🔭 **Currently working on**: Super Smash Bros. Ultimate Optimizer (Python, Pandas, Streamlit)
 - 🌱 **Currently learning**: ML fundamentals, Self-studying Linear Algebra (MATH 257)
 - 💼 **Looking for**: SWE / Data Science / AI-ML internships — Summer 2027
 
