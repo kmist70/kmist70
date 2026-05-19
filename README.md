@@ -33,7 +33,7 @@ insert this when currently working
 ## 📊 GitHub Stats
 
 [![Repos](https://img.shields.io/badge/Public%20Repos-9-blue?style=flat-square)](https://github.com/kmist70?tab=repositories)
-[![Private Repos](https://img.shields.io/badge/Private%20Repos-17-purple?style=flat-square)](https://github.com/kmist70)
+[![Private Repos](https://img.shields.io/badge/Private%20Repos-4-purple?style=flat-square)](https://github.com/kmist70)
 [![Followers](https://img.shields.io/github/followers/kmist70?label=Followers&style=flat-square)](https://github.com/kmist70)
 [![Following](https://img.shields.io/badge/Following-5-green?style=flat-square)](https://github.com/kmist70/following)
 
