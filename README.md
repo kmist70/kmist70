@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=435&lines=Hi+I'm+Krishna+%F0%9F%91%8B;CS+%40+UIUC+%7C+AI%2FML+Enthusiast;Always+building+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=435&lines=Hi+I'm+Krishna+%F0%9F%91%8B;CS+%40+UIUC+%7C+Aspiring+AI%2FML+Engineer;Always+building+something+new" alt="Typing SVG" />
 </div>
 
 ## 👋 About Me
@@ -8,8 +8,9 @@ I'm **Krishna M**, a CS student at **UIUC** building projects in AI/ML and softw
 
 - 📍 **Location**: Urbana-Champaign, Illinois
 - 🎓 **Education**: B.S. in Computer Science @ UIUC ('25–'28)
+- 🔭 **Currently working on**: ASL Translator (Python, OpenCV)
 - 🌱 **Currently learning**: ML fundamentals, Self-studying Linear Algebra (MATH 257)
-- 💼 **Looking for**: SWE / Data Science / AI-ML internships — Summer 2027
+- 💼 **Looking for**: AI-ML / SWE / Data Science internships — Summer 2027
 
 <!-- - 🔭 **Currently working on**: name (tools/libraries) 
 insert this when currently working
