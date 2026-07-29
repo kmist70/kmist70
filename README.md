@@ -8,7 +8,7 @@ I'm **Krishna M**, a CS student at **UIUC** building projects in AI/ML and softw
 
 - 📍 **Location**: Urbana-Champaign, Illinois
 - 🎓 **Education**: B.S. in Computer Science @ UIUC ('25–'28)
-- 🔭 **Currently working on**: ASL Translator (Python, OpenCV)
+- 🔭 **Currently working on**: ASL Translator (Python, TensorFlow, MediaPipe, OpenCV)
 - 🌱 **Currently learning**: ML fundamentals, Self-studying Linear Algebra (MATH 257)
 - 💼 **Looking for**: AI-ML / SWE / Data Science internships — Summer 2027
 
@@ -28,12 +28,12 @@ insert this when currently working
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,git,vscode,github,linux,pytorch" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,git,vscode,github,linux,tensorflow,pytorch" />
 </p>
 
 ## 📊 GitHub Stats
 
-[![Repos](https://img.shields.io/badge/Public%20Repos-9-blue?style=flat-square)](https://github.com/kmist70?tab=repositories)
+[![Repos](https://img.shields.io/badge/Public%20Repos-10-blue?style=flat-square)](https://github.com/kmist70?tab=repositories)
 [![Private Repos](https://img.shields.io/badge/Private%20Repos-4-purple?style=flat-square)](https://github.com/kmist70)
 [![Followers](https://img.shields.io/github/followers/kmist70?label=Followers&style=flat-square)](https://github.com/kmist70)
 [![Following](https://img.shields.io/badge/Following-5-green?style=flat-square)](https://github.com/kmist70/following)
