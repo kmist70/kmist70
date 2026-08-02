@@ -7,9 +7,9 @@
 I'm **Krishna M**, a CS student at **UIUC** building projects in AI/ML and software engineering.
 
 - 📍 **Location**: Urbana-Champaign, Illinois
-- 🎓 **Education**: B.S. in Computer Science @ UIUC ('25–'28)
+- 🎓 **Education**: B.S. in Computer Science @ UIUC '28
 - 🔭 **Currently working on**: ASL Translator (Python, TensorFlow, MediaPipe, OpenCV)
-- 🌱 **Currently learning**: ML fundamentals, Self-studying Linear Algebra (MATH 257)
+- 🌱 **Currently learning**: Self-studying Linear Algebra (MATH 257)
 - 💼 **Looking for**: AI-ML / SWE / Data Science internships — Summer 2027
 
 <!-- - 🔭 **Currently working on**: name (tools/libraries) 
@@ -19,8 +19,8 @@ insert this when currently working
 ## 🚀 Featured Projects
 | Project | Description | Stack |
 |---|---|---|
+| [ASL Translator](https://github.com/kmist70/asl-translator) | [IN PROGRESS] Real-time computer vision website that converts landmarks from gestures into English | Python · TensorFlow · MediaPipe · OpenCV |
 | [MemeFocus](https://github.com/kmist70/memefocus) | Real-time computer vision app that detects focus loss and delivers meme-based nudges to keep you on task | Python · MediaPipe · OpenCV |
-| [SSBU Optimizer](https://github.com/kmist70/ssbu-optimizer) | Interactive dashboard that analyzes match data to surface actionable strategy improvements for Smash Ultimate players | Python · Pandas · Streamlit |
 | [Stock Market Analyzer](https://github.com/kmist70/stock-market-analyzer) | Trend prediction tool that processes historical market data to surface actionable trading signals | Python · Pandas · NumPy · Streamlit |
 | [Fake News Detector](https://github.com/kmist70/fake-news-detector) | Multimodal misinformation classifier that cross-references text, image, and audio signals using a PyTorch model | Python · PyTorch · Streamlit |
 
