@@ -9,8 +9,8 @@ I'm **Krishna M**, a CS student at **UIUC** building projects in AI/ML and softw
 - 📍 **Location**: Urbana-Champaign, Illinois
 - 🎓 **Education**: B.S. in Computer Science @ UIUC '28
 - 🔭 **Currently working on**: ASL Translator (Python, TensorFlow, MediaPipe, OpenCV)
-- 🌱 **Currently learning**: Self-studying Linear Algebra (MATH 257)
-- 💼 **Looking for**: AI-ML / SWE / Data Science internships — Summer 2027
+- 🌱 **Currently learning**: Database Systems (CS 411), Statistics and Probability (CS 361), Linear Algebra (MATH 257), ML fundamentals
+- 💼 **Looking for**: SWE / AI-ML internships — Summer 2027
 
 <!-- - 🔭 **Currently working on**: name (tools/libraries) 
 insert this when currently working
